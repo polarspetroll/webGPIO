@@ -20,3 +20,7 @@ go build main.go
 ##### tested on :
 
 - **Raspberrypi 4B+**
+
+
+--- 
+**Default Port : 8080**
